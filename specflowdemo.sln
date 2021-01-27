@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29924.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "specflowdemo", "specflowdemo\specflowdemo.csproj", "{FB66A421-70EA-4136-9455-C91D772D7934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{99B610B7-0918-4F25-88A1-5BABF51326FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB66A421-70EA-4136-9455-C91D772D7934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB66A421-70EA-4136-9455-C91D772D7934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB66A421-70EA-4136-9455-C91D772D7934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB66A421-70EA-4136-9455-C91D772D7934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B610B7-0918-4F25-88A1-5BABF51326FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B610B7-0918-4F25-88A1-5BABF51326FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B610B7-0918-4F25-88A1-5BABF51326FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B610B7-0918-4F25-88A1-5BABF51326FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D02091E-5C84-4D44-935B-C089334EE627}
+	EndGlobalSection
+EndGlobal
